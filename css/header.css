@@ -1,0 +1,14 @@
+.header>img{margin-top: 20px;}
+.nav{width: 718px;}
+.nav .search{margin-top:20px;float:right;position:relative;width: 188px;height:30px;border:1px solid red;border-radius:4px; -moz-border-radius:4px;}
+.search>input{margin-left: 2px;padding-top: 5px;border:none;}
+.search>button{position: absolute; top:0px; left:158px;width:30px;height:30px;border:none;color:#fff;background-color:red;}
+.nav .nav-list{float:right;margin:0;}
+.nav .nav-list .new-li1{width: 75px;}
+.nav .nav-list>li{text-align:center;width:113px;line-height:50px;}
+.nav .nav-list .new-li2{width:113px;border-bottom: 3px solid #f00;}
+.nav .nav-list>li>a{font-size:18px;color:#000;font-weight:600;text-decoration: none;}
+.nav .nav-list>li:nth-child(2)>a{color:#f00;}
+/*
+.banner img{position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%);}*/
+.banner img{margin: 0 auto; width:100%;}
